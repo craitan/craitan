@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **yuliyanpetrov88@gmail.com**
 
-- ⚡ Fun fact **I love to dance. 🕺 ❤**
+- ⚡ Fun fact **I ❤ to dance. 🕺 **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
