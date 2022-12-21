@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, I'm Yuliyan Petrov</h1>
-<h3 align="center">Currently on the way to graduate from SoftUni as a Back-End Developer with ❤Python❤</h3>
+<h3 align="center"> ❤Python❤ ❤Django❤</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=craitan&label=Profile%20views&color=0e75b6&style=flat" alt="craitan" /> </p>
 
